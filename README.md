@@ -6,7 +6,7 @@
 By the way, i make everything with ❤
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gebwyd" alt="Profile Views" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=snixf" alt="Profile Views" /> </p>  
 
 <p align="center">
   <a href="https://discord.com/users/801508376491327518">
