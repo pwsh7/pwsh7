@@ -7,6 +7,6 @@
 
 💻 I’m currently learning Python and JS.
 
-📧 Want to reach me? *Connect to me via <a href="https://dis.wtf/801508376491327518">Discord</a>
+📧 Want to reach me? Contact me via <a href="https://dis.wtf/801508376491327518">Discord</a>
 
 ⚡ Fun fact: Turkish doesnt have a meaning for the word "The".
