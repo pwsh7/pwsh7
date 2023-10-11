@@ -5,7 +5,7 @@
       <img src="https://lanyard.cnrad.dev/api/801508376491327518">
    </a>
 
-💻 I’m currently learning Python, CSS.
+💻 I’m currently learning Python and JS.
 
 📧 Want to reach me? *Connect to me via <a href="https://dis.wtf/801508376491327518">Discord</a>
 
