@@ -1,12 +1,11 @@
-<h1 align="center">Hi, I'm snixf 👋🏻</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=snixf+%7C+guns.lol/dpu)](https://git.io/typing-svg)
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
 
-<div align="center">
-   <a href="https://discord.com/users/323037252978606092" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/801508376491327518">
-   </a>
-
-💻 I’m currently learning Python and JS.
-
-📧 Want to reach me? Contact me via <a href="https://dis.wtf/801508376491327518">Discord</a>
-
-⚡ Fun fact: Turkish doesnt have a meaning for the word "The".
+```bat
+set %discord% = snixf
+echo.
+echo Hey!
+```
+&zwnj; 
+&zwnj; 
+![](https://komarev.com/ghpvc/?username=pwsh7)
